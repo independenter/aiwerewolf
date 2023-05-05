@@ -1,0 +1,16 @@
+server:
+  shutdown: graceful
+  port: 8030
+
+
+ribbon:
+  ConnectTimeout: 60000
+  ReadTimeout: 60000
+
+spring:
+  application:
+    name: aiwerewolf-chat
+  servlet:
+    multipart:
+      max-file-size: 2048MB
+      max-request-size: 2048MB

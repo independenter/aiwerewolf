@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/ai-interchange-adapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-interchange-adapter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-interchange-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-interchange-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-interchange-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-interchange-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-interchange-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-interchange-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-interchange-infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-interchange-infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ai-start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aigoodperson-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aigoodperson-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aiwerewolf-client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aiwerewolf-client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aiwerewolf-killing-adapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aiwerewolf-killing-adapter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aiwerewolf-killing-app/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aiwerewolf-killing-app/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aiwerewolf-killing-domain/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aiwerewolf-killing-domain/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aiwerewolf-killing-infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aiwerewolf-killing-infrastructure/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aiwerewolf-spring-boot-starter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aiwerewolf-spring-boot-starter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domain-collaboration-context/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/domain-collaboration-context/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/game-start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="fastRequestCurrentParamGroup">
+    <option name="className" value="com.aiwolf.AiChatStart" />
+    <option name="method" value="hello" />
+    <option name="module" value="ai-start" />
+    <option name="originUrl" value="/hello" />
+    <option name="returnDocument" value="null" />
+    <option name="url" value="/hello" />
+  </component>
+</project>

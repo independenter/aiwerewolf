@@ -1,0 +1,25 @@
+server:
+  port: 9000
+  shutdown: graceful
+  compression:
+    enabled: true
+
+ribbon:
+  ConnectTimeout: 60000
+  ReadTimeout: 60000
+
+spring:
+  application:
+    name: aiwerewolf-game
+  servlet:
+    multipart:
+      max-file-size: 2048MB
+      max-request-size: 2048MB
+  cloud:
+    openfeign:
+      client:
+#        config:
+      okhttp:
+        enabled: true
+      httpclient:
+        disable-ssl-validation: true
