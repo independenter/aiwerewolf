@@ -10,7 +10,6 @@
 
   <packaging>pom</packaging>
   <modules>
-    <module>aigoodperson-client</module>
     <module>aiwerewolf-client</module>
     <module>aiwerewolf-killing-domain</module>
     <module>ai-interchange-domain</module>

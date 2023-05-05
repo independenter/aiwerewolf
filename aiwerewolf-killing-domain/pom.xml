@@ -23,10 +23,5 @@
       <artifactId>aiwerewolf-client</artifactId>
       <version>${aiwerewolf.version}</version>
     </dependency>
-    <dependency>
-      <groupId>com.aiwolf</groupId>
-      <artifactId>aigoodperson-client</artifactId>
-      <version>${aiwerewolf.version}</version>
-    </dependency>
   </dependencies>
 </project>
